@@ -10,6 +10,7 @@
 	 	<mapper resource="sql/complainSql.xml" />
  		<mapper resource="sql/adminSql.xml" />
  		<mapper resource="sql/blackSql.xml" />
+ 		<mapper resource="sql/comReqSql.xml"/>
  		<mapper resource="sql/superHostSql.xml" />
  	</mappers>
  </configuration>
